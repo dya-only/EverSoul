@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'GyeonggiTitleM';
+  src: url('./assets/Gyeonggi.ttf') format("truetype");
+}
+
+* {
+  font-family: GyeonggiTitleM, Inter, Avenir, Helvetica, Arial, sans-serif;
+}
